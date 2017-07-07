@@ -1,2 +1,5 @@
 # snakegame
-simple console snake game
+
+Easy, huh? 
+
+TODO: windows compatibility
